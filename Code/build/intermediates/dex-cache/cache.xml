@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\pre-dexed\debug\classes-95b3ba53dc960904d72b99bacacb5d3f06d814d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\exploded-aar\OpenDayApp1\framework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f0d09bb46fa5ddab3ee2fed306bda41a24bf029">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\pre-dexed\debug\classes-901e4c2aa92b54d98fec6933d41d84487896d3b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Beren\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-d125878126f7901e137890e7a9028dd51ec85429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d7c6d97d4242b8ca39159419ed2822ee3a78188e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Beren\Desktop\3rd Year\SE2\mySE2\OpenDayApp1\OpenDayApp1\OpenDayApp1\app\build\intermediates\pre-dexed\debug\classes-c59b7677cb0bfa265287529742948a51d45c3608.jar" />
+    </item>
+
+</items>

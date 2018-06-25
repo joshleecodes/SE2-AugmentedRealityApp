@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ViewEA</string>
+    <string name="picture">Pic</string>
+    <string name="description_info">An augmented reality experience only available at University of East Anglia! Stand on a marker and give it a go!</string>
+    <string name="title_activity_help_page">HelpPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_about">Welcome to ViewEA! This page will give you a few tips on what this
+        app does and how to use it.
+    </string>
+    <string name="what_is_title"><u>WHAT IS VIEWEA?</u></string>
+    <string name="what_is">ViewEA is an application that employs augmented reality techniques to
+        give you interesting info about the buildings that surround you. </string>
+    <string name="how_title"><u>HOW DO I USE IT?</u></string>
+    <string name="how">Eagle-eyed visitors to campus may notice several ViewEA signs dotted around
+        on the floor. Stand on (or near) a sign and point your phones camera at the building in
+        question to recieve some information aboutit.</string>
+    <string name="share_title"><u>SHARE YOUR LOCATION</u></string>
+    <string name="share">Sharing is caring! If youd like to share the building youre currently at
+        with friends, press the share button while at one of the ViewEA signs.</string>
+</resources>
